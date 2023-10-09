@@ -15,26 +15,6 @@ Welcome to my GitHub profile! 👋 I'm Ala Sassi, and I'm passionate about creat
 ## About Me
 I specialize in creating interactive and dynamic web applications. My strong command of JavaScript and extensive knowledge of React have consistently attracted clients who value my ability to deliver projects that harmoniously blend functionality, usability, and aesthetics.
 
-## Work Experience
-
-### Front-End Developer at takiacademy
-- **Front-end developer (internship)**
-- *2022 - 2023*
-- Agile development, collaboration with senior developers, and exceeding sprint goals.
-- Emphasis on task prioritization and efficient project management.
-
-### React Developer at Dowell Research UK Limited
-- *Part-time, from Jan 2023 - Present*
-- Dual role in development and team management.
-- Leadership opportunity, managing the team effectively.
-- Enhancing technical and leadership skills.
-
-### React Developer at RI Software
-- *Full-time, from May 2023 - Aug 2023*
-- Led a team focused on developing a productivity web app.
-- Mentored junior developers and prioritized clean code practices.
-- Addressed production issues and boosted technical skills and leadership confidence.
-
 ## Connect with Me
 - **GitHub:** [GitHub Profile](https://github.com/AlaaSassii)
 - **LinkedIn:** [LinkedIn - Dowell Research UK Limited](https://www.linkedin.com/company/dowell-research-uk-limited/)
