@@ -1,16 +1,46 @@
-### Hi there 👋
+# Ala Sassi - Front-End Developer Extraordinaire 🚀
 
-<!--
-**AlaaSassii/alaasassii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 👋 I'm Ala Sassi, and I'm passionate about creating engaging and user-friendly web applications. With a dedication to staying on the cutting edge of web technologies, I strive to deliver projects that seamlessly combine functionality and aesthetics to provide the best user experiences.
 
-Here are some ideas to get you started:
+## Contact
+- **Phone:** +216 28 701 931
+- **Email:** [alaasassi713@gmail.com](mailto:alaasassi713@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ala-sassi-19a672241/)
+- **YouTube:** [YouTube Channel](https://www.youtube.com/@alasassi5889)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Arabic 🇹🇳, English 🇬🇧, French 🇫🇷
+- **Technologies:** HTML, CSS, JavaScript, TypeScript, React, Redux/Redux Toolkit, GraphQL, Next.js, Sass/SCSS, Tailwind
+
+## About Me
+I specialize in creating interactive and dynamic web applications. My strong command of JavaScript and extensive knowledge of React have consistently attracted clients who value my ability to deliver projects that harmoniously blend functionality, usability, and aesthetics.
+
+## Work Experience
+
+### Front-End Developer at takiacademy
+- **Front-end developer (internship)**
+- *2022 - 2023*
+- Agile development, collaboration with senior developers, and exceeding sprint goals.
+- Emphasis on task prioritization and efficient project management.
+
+### React Developer at Dowell Research UK Limited
+- *Part-time, from Jan 2023 - Present*
+- Dual role in development and team management.
+- Leadership opportunity, managing the team effectively.
+- Enhancing technical and leadership skills.
+
+### React Developer at RI Software
+- *Full-time, from May 2023 - Aug 2023*
+- Led a team focused on developing a productivity web app.
+- Mentored junior developers and prioritized clean code practices.
+- Addressed production issues and boosted technical skills and leadership confidence.
+
+## Connect with Me
+- **GitHub:** [GitHub Profile](https://github.com/AlaaSassii)
+- **LinkedIn:** [LinkedIn - Dowell Research UK Limited](https://www.linkedin.com/company/dowell-research-uk-limited/)
+- **LinkedIn:** [LinkedIn - RI Software](https://www.linkedin.com/company/ri-software/mycompany/)
+- **LinkedIn:** [LinkedIn - takiacademy](https://www.linkedin.com/company/takiacademy/)
+
+🤝 I'm always open to collaboration and new opportunities. Let's connect and create something amazing together!
+
+🚀 Thank you for visiting my GitHub profile. Let's build the web of the future! 🌐✨
