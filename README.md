@@ -15,12 +15,6 @@ Welcome to my GitHub profile! 👋 I'm Ala Sassi, and I'm passionate about creat
 ## About Me
 I specialize in creating interactive and dynamic web applications. My strong command of JavaScript and extensive knowledge of React have consistently attracted clients who value my ability to deliver projects that harmoniously blend functionality, usability, and aesthetics.
 
-## Connect with Me
-- **GitHub:** [GitHub Profile](https://github.com/AlaaSassii)
-- **LinkedIn:** [LinkedIn - Dowell Research UK Limited](https://www.linkedin.com/company/dowell-research-uk-limited/)
-- **LinkedIn:** [LinkedIn - RI Software](https://www.linkedin.com/company/ri-software/mycompany/)
-- **LinkedIn:** [LinkedIn - takiacademy](https://www.linkedin.com/company/takiacademy/)
-
 🤝 I'm always open to collaboration and new opportunities. Let's connect and create something amazing together!
 
 🚀 Thank you for visiting my GitHub profile. Let's build the web of the future! 🌐✨
