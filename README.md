@@ -1,7 +1,5 @@
 # Ala Sassi - Front-End Developer Extraordinaire 🚀
 
-Welcome to my GitHub profile! 👋 I'm Ala Sassi, and I'm passionate about creating engaging and user-friendly web applications. With a dedication to staying on the cutting edge of web technologies, I strive to deliver projects that seamlessly combine functionality and aesthetics to provide the best user experiences.
-
 ## Contact
 - **Email:** [alaasassi713@gmail.com](mailto:alaasassi713@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ala-sassi-19a672241/)
