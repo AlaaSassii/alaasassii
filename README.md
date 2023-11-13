@@ -1,12 +1,7 @@
 # Ala Sassi - Front-End Developer Extraordinaire 🚀
 
-## Contact
-- **Email:** [alaasassi713@gmail.com](mailto:alaasassi713@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ala-sassi-19a672241/)
-- **YouTube:** [YouTube Channel](https://www.youtube.com/@alasassi5889)
 
 ## Skills
-- **Languages:** Arabic 🇹🇳, English 🇬🇧, French 🇫🇷
 - **Technologies:** HTML, CSS, JavaScript, TypeScript, React, Redux/Redux Toolkit, GraphQL, Next.js, Sass/SCSS, Tailwind
 
 ## About Me
