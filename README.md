@@ -1,4 +1,4 @@
-# Ala Sassi - Front-End Developer Extraordinaire 🚀
+# Ala Sassi - Full-Stack Developer Extraordinaire 🚀
 
 
 ## Skills
